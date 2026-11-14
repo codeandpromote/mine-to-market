@@ -1,0 +1,6 @@
+{
+  "name": "Mine-to-Port Supply Chain Line Animation",
+  "description": "Interactive line-art supply chain animation and HD video exporter depicting mine excavation, haul dumper transit, port conveyor unloading, bulk ship loading, and empty return cycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
