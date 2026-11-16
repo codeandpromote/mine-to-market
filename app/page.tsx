@@ -1,5 +1,5 @@
-import SupplyChainPlayer from '@/components/SupplyChainPlayer';
+import AnimationStudioPage from '@/components/AnimationStudioPage';
 
 export default function HomePage() {
-  return <SupplyChainPlayer />;
+  return <AnimationStudioPage />;
 }
